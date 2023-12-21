@@ -162,6 +162,9 @@ svg {
   position: relative;
 }
 
+body {
+  color: #dddd;
+}
 #home {
   position: relative;
 }
@@ -912,8 +915,12 @@ svg {
 }
 .skill__description {
   margin-bottom: 2rem;
+  color: #dddd;
 }
-
+.skill_subtitle {
+  margin-bottom: 2rem;
+  color: #dddd;
+}
 .skill__contant {
   display: grid;
 }
